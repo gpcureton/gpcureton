@@ -1,7 +1,10 @@
 ### Hi there 👋
-You won't find a lot here, most of my development is on my <a href="https://gitlab.ssec.wisc.edu/geoffc">GitLab</a> account for work,
+This account only exists to interact with other GitHub accounts, you won't find any of my actual work here.
+
+Most of my development is on my <a href="https://gitlab.ssec.wisc.edu/geoffc">GitLab</a> account for work,
 or my personal <a href="https://codeberg.org/gpcureton">Codeberg</a> account.
-Here is the link to my <a rel="me" href="https://mstdn.social/@gpcureton">Mastodon</a> account.
+
+My <a rel="me" href="https://mstdn.social/@gpcureton">Mastodon</a> account if anyone cares about that sort of thing.
 <!--
 **gpcureton/gpcureton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
